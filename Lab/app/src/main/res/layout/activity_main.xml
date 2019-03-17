@@ -18,7 +18,7 @@
         app:layout_constraintVertical_bias="0.633" />
 
     <Button
-        android:id="@+id/previous-button"
+        android:id="@+id/previous_button"
         android:layout_width="78dp"
         android:layout_height="41dp"
         android:text="Previous"
@@ -30,7 +30,7 @@
         app:layout_constraintVertical_bias="0.976" />
 
     <Button
-        android:id="@+id/next-button"
+        android:id="@+id/next_button"
         android:layout_width="78dp"
         android:layout_height="41dp"
         android:text="Next"
