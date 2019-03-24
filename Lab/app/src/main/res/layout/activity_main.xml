@@ -19,8 +19,8 @@
 
     <Button
         android:id="@+id/previous_button"
-        android:layout_width="78dp"
-        android:layout_height="41dp"
+        android:layout_width="104dp"
+        android:layout_height="42dp"
         android:text="Previous"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.048"
@@ -31,8 +31,8 @@
 
     <Button
         android:id="@+id/next_button"
-        android:layout_width="78dp"
-        android:layout_height="41dp"
+        android:layout_width="107dp"
+        android:layout_height="42dp"
         android:text="Next"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.951"
@@ -40,7 +40,6 @@
 
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.976"
-        />
+        app:layout_constraintVertical_bias="0.976" />
 
 </android.support.constraint.ConstraintLayout>
